@@ -27,6 +27,9 @@ run-*/
 qc-cases/
 provided-results/
 K4-DAY13-*/
+!report/
+!report/*/
+!report/*/*.md
 .DS_Store
 
 # Only the explicitly licensed KITTI adaptation is published.
